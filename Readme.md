@@ -70,29 +70,8 @@ I prefer React & React Native for web/mobile front-end development.
  
     
     
-      <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaserdemet&layout=compact&theme=radical&langs_count=10" />
-    </a>
-  </div>
-  <br>
-  <div>
-    <a href="#">
-      <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=yaserdemet&show_icons=true&theme=radical" />
-    </a>
-  </div>
-  <br>
-  <a href="#">
-    <img align="center"
-      src="https://github-readme-streak-stats.herokuapp.com?user=yaserdemet&theme=radical&date_format=j%20M%5B%20Y%5D" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="#">
-    <img src="https://activity-graph.herokuapp.com/graph?username=yaserdemet&theme=react-dark" />
-  </a>
-</div>
+      
+
 
 
 <div align="center">
