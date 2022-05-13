@@ -53,33 +53,6 @@ I prefer React & React Native for web/mobile front-end development.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
- 
-    
-    
-      
-
-
-
-<div align="center">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/yaserdemet/yaserdemet/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-  </a>
-</div>
-
 <div align="center">
   <a href="#">
     <h2>🏆 Github Profile Trophy 🏆</h2>    
