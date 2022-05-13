@@ -51,83 +51,25 @@ I prefer React & React Native for web/mobile front-end development.
 
 
 
-<!-- <a href="https://www.enes.software/">
-<img src="icon/ilus-code.svg" min-width="300px" max-width="300px" width="300px"
-    align="right" alt="logo devenes">
-</a> -->
-
-
-<a href="https://www.enes.software/">
-<img src="icon/devenes.webp" width="400" align="right" alt="logo devenes">
-</a>
-
-
-<p align="left">
-  <img src="./icon/hand.gif" width="28">
-  Welcome to My GitHub World!
-</p>
 
 
 
 
-<br>
 
 
 
-  <a href="https://www.linkedin.com/in/yaserdemet" alt="Linkedin">
-    <img
-      src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/yaserdemet" />
-  </a>
 
-  <a href="https://www.youtube.com/channel/UCt-tnhSuozy8GE7u7wl1aHw" alt="Youtube">
-    <img
-      src="https://img.shields.io/badge/-Youtube-6610F2?style=for-the-badge&logo=Youtube&logoColor=FFFFFF&link=https://www.youtube.com/channel/UCt-tnhSuozy8GE7u7wl1aHw" />
-  </a>
-</p>
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Homo+sapiens;I+am+Enes+Turan;Self+taught+developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
-</p> -->
 
-<div align="center">
-  <a href="#">
-    <img src="./icon/devops.gif">
-  </a>
-</div>
 
-![enes](gitartwork.svg)
 
-![snake svg](https://github.com/yaserdemet/yaserdemet/blob/output/github-contribution-grid-snake.svg)
 
-<!-- <div align="center">
-  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-</div> -->
+  
 
-<!--Statistics-->
-<div align="center">
-  <div align="center">
-    <a href="#">
-      <img align="center" src="https://komarev.com/ghpvc/?username=yaserdemet&color=blue&style=plastic">
-    </a>
-    <!-- followers on GitHub  -->
-    <!-- <a href="https://www.enes.software/">
-      <img align="center" src="https://img.shields.io/github/followers/devenes?style=flat-square&color=f75c7e">
-    </a> -->
-    <a href="https://www.linkedin.com/in/yaserdemet/">
-      <img align="center"
-        src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8">
-    </a>
+
  
     
-    <a href="https://github.com/yaserdemet/">
-      <img align="center" src="https://img.shields.io/github/followers/yaserdemet?label=follow&style=social">
-    </a>
-  </div>
-
-  <br>
-  <!-- Most Used Languages -->
-  <div>
-    <a href="#">
+    
       <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaserdemet&layout=compact&theme=radical&langs_count=10" />
     </a>
