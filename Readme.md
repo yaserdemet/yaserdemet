@@ -61,11 +61,7 @@ I prefer React & React Native for web/mobile front-end development.
 </div>
 
 
-<div align="center">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/yaserdemet/deveneyaserdemet/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-  </a>
-</div>
+
 
 
 
