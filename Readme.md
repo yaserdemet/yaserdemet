@@ -49,6 +49,8 @@ I prefer React & React Native for web/mobile front-end development.
 
 
 
+
+
 <!-- <a href="https://www.enes.software/">
 <img src="icon/ilus-code.svg" min-width="300px" max-width="300px" width="300px"
     align="right" alt="logo devenes">
@@ -64,28 +66,17 @@ I prefer React & React Native for web/mobile front-end development.
   <img src="./icon/hand.gif" width="28">
   Welcome to My GitHub World!
 </p>
-<p>
-  I'm Enes and I'm <strong>DevOps Engineer</strong>
-</p>
-<p align="left">
-  ☕ <strong>HTML, CSS, JavaScript, React.JS, Python, Bash, PowerShell </strong>
-</p>
-<p align="left">
-  💼 <strong> Git, GitHub Actions, Docker, Jenkins, Terraform, Ansible, Kubernetes
-  </strong>
-</p>
+
+
+
 
 <br>
 
-<p align="left">
-  <a href="https://www.instagram.com/enes.ai/" alt="Instagram">
-    <img
-      src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/enes.ai" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/devenes" alt="Linkedin">
+
+  <a href="https://www.linkedin.com/in/yaserdemet" alt="Linkedin">
     <img
-      src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/devenes" />
+      src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/yaserdemet" />
   </a>
 
   <a href="https://www.youtube.com/channel/UCt-tnhSuozy8GE7u7wl1aHw" alt="Youtube">
@@ -99,14 +90,14 @@ I prefer React & React Native for web/mobile front-end development.
 </p> -->
 
 <div align="center">
-  <a href="https://www.enes.software/">
+  <a href="#">
     <img src="./icon/devops.gif">
   </a>
 </div>
 
 ![enes](gitartwork.svg)
 
-![snake svg](https://github.com/devenes/devenes/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/yaserdemet/yaserdemet/blob/output/github-contribution-grid-snake.svg)
 
 <!-- <div align="center">
   <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
@@ -115,66 +106,61 @@ I prefer React & React Native for web/mobile front-end development.
 <!--Statistics-->
 <div align="center">
   <div align="center">
-    <a href="https://www.enes.software/">
-      <img align="center" src="https://komarev.com/ghpvc/?username=devenes&color=blue&style=plastic">
+    <a href="#">
+      <img align="center" src="https://komarev.com/ghpvc/?username=yaserdemet&color=blue&style=plastic">
     </a>
     <!-- followers on GitHub  -->
     <!-- <a href="https://www.enes.software/">
       <img align="center" src="https://img.shields.io/github/followers/devenes?style=flat-square&color=f75c7e">
     </a> -->
-    <a href="https://www.linkedin.com/in/devenes/">
+    <a href="https://www.linkedin.com/in/yaserdemet/">
       <img align="center"
         src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8">
     </a>
-    <!-- <a>
-      <img align="center" src="https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=f75c7e">
-    </a> -->
-    <a href="https://www.instagram.com/enes.ai/">
-      <img align="center"
-        src="https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=f75c7e">
-    </a>
-    <a href="https://github.com/devenes/">
-      <img align="center" src="https://img.shields.io/github/followers/devenes?label=follow&style=social">
+ 
+    
+    <a href="https://github.com/yaserdemet/">
+      <img align="center" src="https://img.shields.io/github/followers/yaserdemet?label=follow&style=social">
     </a>
   </div>
 
   <br>
   <!-- Most Used Languages -->
   <div>
-    <a href="https://www.enes.software/">
+    <a href="#">
       <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=devenes&layout=compact&theme=radical&langs_count=10" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaserdemet&layout=compact&theme=radical&langs_count=10" />
     </a>
   </div>
   <br>
   <div>
-    <a href="https://www.enes.software/">
+    <a href="#">
       <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=devenes&show_icons=true&theme=radical" />
+        src="https://github-readme-stats.vercel.app/api?username=yaserdemet&show_icons=true&theme=radical" />
     </a>
   </div>
   <br>
-  <a href="https://www.enes.software/">
+  <a href="#">
     <img align="center"
-      src="https://github-readme-streak-stats.herokuapp.com?user=devenes&theme=radical&date_format=j%20M%5B%20Y%5D" />
+      src="https://github-readme-streak-stats.herokuapp.com?user=yaserdemet&theme=radical&date_format=j%20M%5B%20Y%5D" />
   </a>
 </div>
 <br>
 <div align="center">
-  <a href="https://www.enes.software/">
-    <img src="https://activity-graph.herokuapp.com/graph?username=devenes&theme=react-dark" />
+  <a href="#">
+    <img src="https://activity-graph.herokuapp.com/graph?username=yaserdemet&theme=react-dark" />
   </a>
 </div>
 
 
 <div align="center">
-  <a href="https://www.enes.software/">
-    <img src="https://raw.githubusercontent.com/devenes/devenes/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/yaserdemet/yaserdemet/main/profile-3d-contrib/profile-night-rainbow.svg"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://www.enes.software/">
+  <a href="#">
     <h2>🏆 Github Profile Trophy 🏆</h2>    
         <img width=1000
       src="https://github-profile-trophy.vercel.app/?username=devenes&column=8&theme=onedark&no-frame=true&margin-w=15" />    
