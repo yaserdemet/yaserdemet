@@ -62,6 +62,6 @@ I prefer React & React Native for web/mobile front-end development.
   </a>
 </div>
 
-![yaser](gitartwork.svg)
 
-![snake svg](https://github.com/yaserdemet/yaserdemet/blob/output/github-contribution-grid-snake.svg)
+
+
