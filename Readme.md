@@ -61,3 +61,7 @@ I prefer React & React Native for web/mobile front-end development.
       src="https://github-profile-trophy.vercel.app/?username=yaserdemet&column=8&theme=onedark&no-frame=true&margin-w=15" />    
   </a>
 </div>
+
+![yaser](gitartwork.svg)
+
+![snake svg](https://github.com/yaserdemet/yaserdemet/blob/output/github-contribution-grid-snake.svg)
