@@ -63,5 +63,5 @@ I prefer React & React Native for web/mobile front-end development.
 </div>
 
 
-
+![Snake animation](https://github.com/yaserdemet/yaserdemet/blob/output/github-contribution-grid-snake.svg)
 
