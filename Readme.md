@@ -62,7 +62,7 @@ I prefer React & React Native for web/mobile front-end development.
   </a>
 </div>
 
-![snake gif](https://github.com/yaserdemet/yaserdemetE/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/yaserdemet/yaserdemet/blob/output/github-contribution-grid-snake.gif)
 
 
 
