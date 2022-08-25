@@ -3,7 +3,7 @@
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaser-demet-42731421b/) 
-<a href="https://yaserdemet.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=yaserdemet" alt="visitor counter"/>
+<a href="https://yaserdemet.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=yaserdemet" alt="visitor counter"  height="28.5"/>
 </p>
 
 
@@ -16,7 +16,10 @@
   
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+![gitartwork](gitartwork.svg)
+
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="center" width = "28"><b> Languages and Tools:</b>
+<br><br>
 <br>
 <p align="left">
 <!--     <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
