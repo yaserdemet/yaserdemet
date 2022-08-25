@@ -19,7 +19,7 @@
 
 
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="center" width = "28"><b> Languages and Tools:</b>
-<br><br>
+<br>
 <br>
 <p align="left">
 <!--     <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
@@ -115,7 +115,7 @@
 
 
 
-## 📈 Statistics
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yaserdemet&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaserdemet&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
