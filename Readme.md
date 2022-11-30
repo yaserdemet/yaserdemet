@@ -57,8 +57,6 @@
   </a>
 </div> -->
 
-<!-- ![snake gif](https://github.com/yaserdemet/yaserdemet/blob/output/github-contribution-grid-snake.gif)
- -->
 
 
 <div align="center">
