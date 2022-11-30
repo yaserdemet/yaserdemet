@@ -40,7 +40,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaserdemet&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 
-</div>
+
 <br>
 <div align="center">
   <a href="#">
