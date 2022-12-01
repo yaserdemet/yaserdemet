@@ -29,10 +29,6 @@
 </p>
 <hr>
 
-
-
-
-
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yaserdemet&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
