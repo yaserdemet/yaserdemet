@@ -44,6 +44,7 @@
   </a>
 </div>
 
+<!-- new tech will be added -->
 
 <!-- <div align="center">
   <a href="#">
