@@ -44,7 +44,7 @@
   </a>
 </div>
 
-<!-- new tech will be added -->
+<!-- new tech will be added  typescript, tailwind, toolkit,  -->
 
 <!-- <div align="center">
   <a href="#">
