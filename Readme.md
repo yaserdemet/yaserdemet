@@ -22,6 +22,7 @@
   <code><img title="CSS" height="25" src="img/css.svg"></code>
   <code><img title="SASS" height="25" src="img/sass.svg"></code>
   <code><img title="React" height="25" src="img/react-original.svg"></code>
+  <code><img title="Mui" height="25" src="img/mui.png"></code>
   <code><img title="Git" height="25" src="img/git-original.svg"></code>
   <code><img title="PostgreSQL" height="25" src="img/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="img/vscode.png"></code>
