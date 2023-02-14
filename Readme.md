@@ -45,15 +45,15 @@
   </a>
 </div>
 
-<!-- new tech will be added  typescript, tailwind, toolkit,  -->
+ 
 
-<!-- <div align="center">
+ <div align="center">
   <a href="#">
     <h2>🏆 Github Profile Trophy 🏆</h2>    
         <img width=1000
       src="https://github-profile-trophy.vercel.app/?username=yaserdemet&column=8&theme=onedark&no-frame=true&margin-w=15" />    
   </a>
-</div> -->
+</div> 
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
