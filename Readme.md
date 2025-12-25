@@ -42,7 +42,7 @@ Some of the toys which I play with are Spring framework and Dropwizard.
 
 - 🔭 I’m working on Building web apps using React and NextJs tech stack.
 - 🌱 I’m currently learning Java and exploring the Spring framework family.
-- 📫 Reach me @ https://www.ddemet.com/
+- 📫 Reach me @ https://www.ddemety.com/
 
 
  
@@ -72,9 +72,4 @@ Some of the toys which I play with are Spring framework and Dropwizard.
 
 <p align="center"><b> Thank You for visiting my profile 🙏</b></p>
 
-<div align="center">
- <!-- <b style = {font-weight: 600}>Visitors Count</b> -->
 
-<!-- <p align="center"><img align="center" src="https://profile-counter.glitch.me/{yaserdemet}/count.svg" /></p>  -->
-<br>
-</div>
