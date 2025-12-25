@@ -31,25 +31,19 @@
 <hr>
 
 
-</br></br></br></br>
+</br></br>
 
 <!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
-<img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
+<img src="https://octodex.github.com/images/murakamicat.png" width="250" align="right">
 
-📍I am Suman from India, and I do frontend development.
+📍I am Yaser from Turkey, and I do frontend development.
 I enjoy learning new technologies and exploring tech.
 Some of the toys which I play with are Spring framework and Dropwizard.
 
 - 🔭 I’m working on Building web apps using React and NextJs tech stack.
 - 🌱 I’m currently learning Java and exploring the Spring framework family.
-- 📫 Reach me @ https://www.ddeme.com/
+- 📫 Reach me @ https://www.ddemet.com/
 
-<br>
-<div align="center">
-  <a href="#">
-    <img src="https://activity-graph.herokuapp.com/graph?username=yaserdemet&theme=react-dark" />
-  </a>
-</div>
 
  
 
@@ -67,7 +61,7 @@ Some of the toys which I play with are Spring framework and Dropwizard.
        alt="snake" /></a>
 </div> -->
 
-
+<br><br>
 <h3 align="left">📫 &nbsp;Feel Free to Contact me.....</h3>
 
 <p align="center">
