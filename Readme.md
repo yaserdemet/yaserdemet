@@ -30,6 +30,21 @@
 </p>
 <hr>
 
+
+</br></br></br></br>
+
+<!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
+<img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
+
+📍I am Suman from India, and I do backend development.
+I enjoy learning new technologies and exploring tech.
+Some of the toys which I play with are Spring framework and Dropwizard.
+
+- 🔭 I’m working on Building web apps using Java tech stack.
+- 🌱 I’m currently learning Java and exploring the Spring framework family.
+- 📫 Reach me @ https://www.sumanshekhar.com/
+- ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸		
+
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yaserdemet&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
