@@ -36,22 +36,13 @@
 <!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
 <img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
 
-📍I am Suman from India, and I do backend development.
+📍I am Suman from India, and I do frontend development.
 I enjoy learning new technologies and exploring tech.
 Some of the toys which I play with are Spring framework and Dropwizard.
 
-- 🔭 I’m working on Building web apps using Java tech stack.
+- 🔭 I’m working on Building web apps using React and NextJs tech stack.
 - 🌱 I’m currently learning Java and exploring the Spring framework family.
-- 📫 Reach me @ https://www.sumanshekhar.com/
-- ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸		
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yaserdemet&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaserdemet&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaserdemet&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
-
-
+- 📫 Reach me @ https://www.ddeme.com/
 
 <br>
 <div align="center">
@@ -62,19 +53,19 @@ Some of the toys which I play with are Spring framework and Dropwizard.
 
  
 
- <div align="center">
+<!-- <div align="center">
   <a href="#">
     <h2>🏆 Github Profile Trophy 🏆</h2>    
         <img width=1000
       src="https://github-profile-trophy.vercel.app/?username=yaserdemet&column=8&theme=onedark&no-frame=true&margin-w=15" />    
   </a>
-</div> 
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div> -->
 
 
 <h3 align="left">📫 &nbsp;Feel Free to Contact me.....</h3>
