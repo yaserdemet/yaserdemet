@@ -36,9 +36,9 @@
 <!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
 <img src="https://octodex.github.com/images/murakamicat.png" width="250" align="right">
 
-📍I am Yaser from Turkey, and I do frontend development.
+📍I am Yaser from Turkey, and I develop project with React and Typescript.
 I enjoy learning new technologies and exploring tech.
-Some of the toys which I play with are Spring framework and Dropwizard.
+
 
 - 🔭 I’m working on Building web apps using React and NextJs tech stack.
 - 🌱 I’m currently learning Java and exploring the Spring framework family.
